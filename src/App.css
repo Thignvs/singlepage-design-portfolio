@@ -14,7 +14,7 @@ body{
   margin: 0 auto;
   padding: 0;
   box-sizing: border-box;
-  background-color: antiquewhite;
+  background-color: var(--Light-Cream);
 }
 
 /* ------------------------------------- Header ----------------------------------- */
