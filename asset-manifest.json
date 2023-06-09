@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/singlepage-design-portfolio/static/css/main.9c2c2163.css",
-    "main.js": "/singlepage-design-portfolio/static/js/main.6bbadad9.js",
+    "main.css": "/singlepage-design-portfolio/static/css/main.84e1a7ac.css",
+    "main.js": "/singlepage-design-portfolio/static/js/main.b1dfbebd.js",
     "static/media/image-amy.webp": "/singlepage-design-portfolio/static/media/image-amy.7da98e7720cf2d1467d1.webp",
     "static/media/image-slide-3.jpg": "/singlepage-design-portfolio/static/media/image-slide-3.98a0b68a0c22e4f588e2.jpg",
     "static/media/image-slide-1.jpg": "/singlepage-design-portfolio/static/media/image-slide-1.8fe92b077c926e6273db.jpg",
@@ -18,11 +18,11 @@
     "static/media/logo.svg": "/singlepage-design-portfolio/static/media/logo.1dd927afcfce524b6787ecae21ad00b3.svg",
     "static/media/icon-arrow-right.svg": "/singlepage-design-portfolio/static/media/icon-arrow-right.dc94be1ff3d2abe01d83af8d931d31aa.svg",
     "static/media/icon-arrow-left.svg": "/singlepage-design-portfolio/static/media/icon-arrow-left.4dc941849919da80482b072e26ed445b.svg",
-    "main.9c2c2163.css.map": "/singlepage-design-portfolio/static/css/main.9c2c2163.css.map",
-    "main.6bbadad9.js.map": "/singlepage-design-portfolio/static/js/main.6bbadad9.js.map"
+    "main.84e1a7ac.css.map": "/singlepage-design-portfolio/static/css/main.84e1a7ac.css.map",
+    "main.b1dfbebd.js.map": "/singlepage-design-portfolio/static/js/main.b1dfbebd.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c2c2163.css",
-    "static/js/main.6bbadad9.js"
+    "static/css/main.84e1a7ac.css",
+    "static/js/main.b1dfbebd.js"
   ]
 }
